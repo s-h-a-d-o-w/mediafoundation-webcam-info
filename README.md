@@ -1,6 +1,6 @@
 # mediafoundation-webcam-info
 
-A simple tool for Windows to get information about the webcam devices available on the system using Media Foundation.
+A simple tool for Windows to get information about available webcam streams using Media Foundation.
 
 ## Prerequisites
 
